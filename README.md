@@ -360,7 +360,7 @@ assets/
 ![Category Portfolio DIagnostic](screenshots/07.jpg)
 
 ### Final Strategy
-![Final Strategy](screenshots/Final_Strategy.jpg)
+![Final Strategy](screenshots/08.jpg)
 
 ### 
 ---

@@ -357,7 +357,7 @@ assets/
 
 ### Category Portfolio DIagnostic
 
-![Category Portfolio DIagnostic](Final Strategy.jpg)
+![Category Portfolio DIagnostic](screenshots/Final Strategy.jpg)
 
 ### Final Strategy
 ![Final Strategy]()

@@ -333,20 +333,36 @@ assets/
 
 ### Market Overview
 
-![Market Overview](01.jpg)
+![Market Overview](screenshots/01.jpg)
 
 ### Brand Analysis
 
-![Brand Portfolio](02.jpg)
+![Brand Portfolio](screenshots/02.jpg)
 
 ### Discount Strategy
 
-![Discount Analysis](03.jpg)
+![Discount Analysis](screenshots/03.jpg)
 
-### Final Recommendations
+### Channel Economics
+![Channel Economics](screenshots/04.jpg)
 
-![Final Strategy](06.jpg)
+### Geographic Market Prioritization
+![Channel Economics](screenshots/05.jpg)
 
+### Consumer Segmentation
+![Channel Economics](screenshots/06.jpg)
+
+### Consumer Segmentation
+![Channel Economics](screenshots/06.jpg)
+
+### Category Portfolio DIagnostic
+
+![Category Portfolio DIagnostic](screenshots/07.jpg)
+
+### Final Strategy
+![Final Strategy]()
+
+### 
 ---
 
 ## Author
